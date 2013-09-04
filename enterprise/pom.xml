@@ -106,11 +106,11 @@
             <artifactId>activemq-all</artifactId>
         </dependency>
         <dependency>
-            <version>1.1</version>
-            <groupId>javax.jms</groupId>
-            <artifactId>jms</artifactId>
+            <version>1.1.1</version>
+            <groupId>org.apache.geronimo.specs</groupId>
+            <artifactId>geronimo-jms_1.1_spec</artifactId>
         </dependency>
-        <dependency>
+<dependency>
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
             <version>1.6.2</version>

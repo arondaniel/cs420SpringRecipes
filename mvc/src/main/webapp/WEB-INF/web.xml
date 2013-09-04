@@ -27,7 +27,6 @@
     <servlet-mapping>
         <servlet-name>court</servlet-name>
         <url-pattern>/</url-pattern>
-        <url-pattern>/welcome</url-pattern>
     </servlet-mapping>
 
     <error-page>
