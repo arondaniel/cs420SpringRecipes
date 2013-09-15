@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1378264248533
+Bnd-LastModified: 1379211274810
 Build-Jdk: 1.7.0_11
 Built-By: Aron
 Bundle-Activator: com.apress.springrecipes.osgi.helloworld.service.Activ

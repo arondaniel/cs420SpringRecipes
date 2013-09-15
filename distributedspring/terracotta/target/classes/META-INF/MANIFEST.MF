@@ -1,5 +1,2 @@
 Manifest-Version: 1.0
-Built-By: Aron
-Build-Jdk: 1.7.0_11
-Created-By: Maven Integration for Eclipse
-
+Main-Class: com.apress.springenterpriserecipes.distributedspring.terracotta.customerconsole.view.CustomerConsole
